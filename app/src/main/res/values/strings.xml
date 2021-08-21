@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">quizapk</string>
+    <string name="quiz">Quiz</string>
+    <string name="false_i">FALSE</string>
+    <string name="true_i">TRUE</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="_0_out_of_100">0 out of 100</string>
+
+
+</resources>
